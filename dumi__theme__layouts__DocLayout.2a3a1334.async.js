@@ -1,0 +1,1 @@
+(self.webpackChunker2k=self.webpackChunker2k||[]).push([[96],{20142:function(_,u,n){"use strict";n.r(u),n.d(u,{default:function(){return t.Z}});var t=n(66904)},52361:function(){},94616:function(){}}]);
